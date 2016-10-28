@@ -34,4 +34,7 @@ signup works, adds info to db, no profile shown yet
 
 login page now works, still no profile shown yet
 
-* 
+* added profle.js
+* conclusion
+
+works - signup, login, view profile page with profile detail for local 
