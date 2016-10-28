@@ -29,3 +29,9 @@ diplays pages for /, /login, /signup
 signup works, adds info to db, no profile shown yet
 
 * add login to passport and routes
+* error - /login cannot be reached, console log Unexpected token
+* fix - removed redundant }; at end of file
+
+login page now works, still no profile shown yet
+
+* 
