@@ -1,5 +1,7 @@
 # Tutorial Steps
 
+## Setup and local login
+
 * create project folder and setup directory structure
 * git init
 * add package.json
@@ -38,3 +40,14 @@ login page now works, still no profile shown yet
 * conclusion
 
 works - signup, login, view profile page with profile detail for local 
+
+## Facebook
+
+* create application in Facebook developer portal
+* add app id and app secret to the auth.js file 
+* added auth.js to .gitignore, removed file from git cache
+* added Facebook strategy for passport 
+* added Facebook routes 
+* add Facebook button to index.ejs 
+* modify profile.ejs 
+* error - cannot read property '0' of undefined
