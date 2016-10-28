@@ -28,3 +28,4 @@ diplays pages for /, /login, /signup
 
 signup works, adds info to db, no profile shown yet
 
+* add login to passport and routes
