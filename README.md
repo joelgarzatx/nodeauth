@@ -16,3 +16,15 @@ nothing works yet
 displays blank page
 
 * add views ejs file content
+* index.ejs, login.ejs, signup.ejs
+
+diplays pages for /, /login, /signup
+
+* user model, user.js
+* passport.js
+* edit routes.js
+* uncomment in server.js the passport line
+* test signup
+
+signup works, adds info to db, no profile shown yet
+
